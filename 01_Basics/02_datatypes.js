@@ -2,7 +2,7 @@
 
 // alert(3+3); // we are using nodejs and not browser
 
-console.log(3 + 3);
+console.log(3 + 3)
 console.log("hello World"); // maintain code readability
 
 let name = "Atharva" // String Datatype
@@ -10,9 +10,9 @@ let age = 18
 let isLoggedIn = false
 
 // datatypes :
-// number --> 2^53 nos.
-// bigint
-// string = ""
+// Number --> 2^53 nos.
+// Bigint
+// String = ""
 // boolean = true/false
 // null = standalone value
 // undefined
